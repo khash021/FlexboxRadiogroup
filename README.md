@@ -7,3 +7,7 @@ A radio group that extends from FlexboxLayout, allowing it to automatically adju
 Children are to be of AppCompatRadioButton
 
 In order to add spacing between items and between vertical lines, set the horizontal/vertical dividers to true (showDividerVertical and showDividerHorizontal) and set the divider drawable (dividerDrawableVertical and dividerDrawableHorizontal).
+
+
+# License
+Copyright 2021 Khash021
