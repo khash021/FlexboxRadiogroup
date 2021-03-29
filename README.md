@@ -9,5 +9,17 @@ Children are to be of AppCompatRadioButton
 In order to add spacing between items and between vertical lines, set the horizontal/vertical dividers to true (showDividerVertical and showDividerHorizontal) and set the divider drawable (dividerDrawableVertical and dividerDrawableHorizontal).
 
 
+# Use
+Add the following line to your project's `build.gradle`:
+
+maven { url 'https://jitpack.io' }
+
+Add the following lines to your app's `build.gradle`:
+
+implementation 'com.github.khash021:FlexboxRadiogroup:1.0.0'
+implementation 'com.google.android:flexbox:2.0.1'
+
+
+
 # License
 Copyright 2021 Khash021
