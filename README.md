@@ -17,6 +17,7 @@ maven { url 'https://jitpack.io' }
 Add the following lines to your app's `build.gradle`:
 
 implementation 'com.github.khash021:FlexboxRadiogroup:1.0.0'
+
 implementation 'com.google.android:flexbox:2.0.1'
 
 
